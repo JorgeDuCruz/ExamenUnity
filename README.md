@@ -71,8 +71,9 @@ private void OnCollisionEnter(Collision collision)
         }    
     }
 ```
+Importante que el nombre de la tag personalizada sea igual a lo que haya entre las comillas del `CompareTag`.
 
-También se puede hacer de otras maneras, como por ejemplo:
+También se puede hacer de otras maneras, como por ejemplo.
 
 Recoger la posición del cubo y compararlo la posición del player entre otros métodos, pero es complicarse de manera innecesaria.
 
