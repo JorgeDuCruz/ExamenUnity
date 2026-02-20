@@ -27,10 +27,12 @@ public class EnemyMovement : MonoBehaviour
            if (disntacia > 10)
             {
                 estado = "Lejos";
+                navMeshAgent.speed = 7;
             }
             else
             {
                 estado = "Cerca";
+                navMeshAgent.speed = 3.5f;
             }
        }
     }
