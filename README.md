@@ -74,7 +74,7 @@ private void OnCollisionEnter(Collision collision)
 
 También se puede hacer de otras maneras, como por ejemplo:
 
-Recojer la posición del cubo y compararlo la posición del player entre otros métodos, pero es complicarse de manera innecesaria.
+Recoger la posición del cubo y compararlo la posición del player entre otros métodos, pero es complicarse de manera innecesaria.
 
 # Apartado B:
 
